@@ -40,10 +40,11 @@ The purpose of this repository is to practice and strengthen fundamental Python 
 - `if-else` logic
 - Checking user input conditions
 
-### 🔹 7. Functions
+###  7. Functions
 - Creating functions with parameters
 - Returning values
 - Calling functions with arguments
 
 ---
+
 
