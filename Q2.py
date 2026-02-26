@@ -1,6 +1,8 @@
-# Create an empty list, add 3 fruits to it, then print the list.
-l1=[] # empty list
-l1.append("Apple") # adding fruits using append command
-l1.append("Banana")
-l1.append("Papaya")
-print(l1)
+l1=[1,2,3,0,-1,4,-2]
+for i in l1:
+    if(i>0):
+        print("positive")
+    elif(i<0):
+        print("negative")
+    else:
+        print("zero")
